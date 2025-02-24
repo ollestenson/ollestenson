@@ -1,7 +1,7 @@
 ## Student at Chalmers University of Techonology 👋
 #### Currently pursuing a M.Sc. degree in Computer Science and Engineering and a B.Sc. degree in Business and Economics
 
-#### Interested in entering the field of Data Science and AI, specifically analyzing financial data through various means.
+#### Interested in entering the field of Data Science and AI and applying machine learning and quantitative analysis to analyze and extract insights from financial markets.
 
 
 <!--
