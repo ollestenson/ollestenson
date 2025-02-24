@@ -1,5 +1,5 @@
 ## Student at Chalmers University of Techonology 👋
-#### Currently pursuing a double degree in Computer Science and Engineering and Business and Economics
+#### Currently pursuing a M.Sc. degree in Computer Science and Engineering and a B.Sc. degree in Business and Economics
 
 <!--
 **ollestenson/ollestenson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
