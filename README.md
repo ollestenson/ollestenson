@@ -1,8 +1,6 @@
 ## Student at Chalmers University of Technology 👋
 #### Currently pursuing a M.Sc. degree in Computer Science and Engineering and a B.Sc. degree in Business and Economics
 
-#### Interested in pursuing Data Science and AI or Engineering Mathematics with a focus on applying machine learning and quantitative analysis to analyze and extract insights from financial markets.
-
 
 <!--
 **ollestenson/ollestenson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
