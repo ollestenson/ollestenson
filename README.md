@@ -1,6 +1,6 @@
 ## Student at Chalmers University of Technology 👋
-#### Currently pursuing a M.Sc. degree in Computer Science and Engineering and a B.Sc. degree in Business and Economics
-
+#### Currently pursuing a M.Sc. degree in Data Science and AI and a B.Sc. degree in Business and Economics
+#### Currently on exchange at ETH Zurich, Switzerland
 
 <!--
 **ollestenson/ollestenson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
